@@ -6,16 +6,16 @@ The content is displayed as Masonry tiles and animated by Draggable plugin. Site
 
 #### Light Theme Loading
 
-<img src="./readme/draggable-loading.png" width="400">
+<img src="./readme/draggable-loading.png" width="600">
 
 #### Light Theme Screen
 
-<img src="./readme/draggable-screen.jpg" width="400">
+<img src="./readme/draggable-screen.jpg" width="600">
 
 #### Dark Theme Loading
 
-<img src="./readme/draggable-loading-dark.png" width="400">
+<img src="./readme/draggable-loading-dark.png" width="600">
 
-#### Light Theme Screen
+#### Dark Theme Screen
 
-<img src="./readme/draggable-screen-dark.jpg" width="400">
+<img src="./readme/draggable-screen-dark.jpg" width="600">
