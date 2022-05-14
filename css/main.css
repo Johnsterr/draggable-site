@@ -49,6 +49,7 @@ body {
 .gallery__item {
   margin-bottom: var(--gap);
   transform: scale(1.001);
+  will-change: transform;
 }
 
 .gallery__item img {
