@@ -42,6 +42,8 @@ body {
   column-width: 2em;
   gap: var(--gap);
   transform: scale(8.2);
+  will-change: transform;
+  transition: transform 1s cubic-bezier(0.075, 1, 0.25, 1);
 }
 
 .gallery__item {
